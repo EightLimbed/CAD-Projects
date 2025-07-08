@@ -1,5 +1,4 @@
-### CAD-Projects:
-Collection of various 3D printed, or generally modelled projects, some of which were ued as school projects.
+## CAD-Projects:
 
 
 ### [Perfectly Aerodynamic 3D Printed Car:](https://github.com/EightLimbed/CAD-Projects/tree/main/Physics%20Car)
