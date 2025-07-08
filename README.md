@@ -12,7 +12,7 @@ Some frame by frame analysis showed the car reached a top speed of 3.57m/s from 
 
 **[3D printed:](https://github.com/EightLimbed/CAD-Projects/tree/main/Pneumatic%20Engines/3D%20Printed)**
 
-Easily printable and assemblable single cylinder pneumatic engine. Works best with mouth power.
+Easily printable and assemblable single cylinder pneumatic engine. Works best with lung power.
 
 
 <img src="https://github.com/EightLimbed/CAD-Projects/blob/main/Pneumatic%20Engines/3D%20Printed/Engine_animation.GIF" width="440" height="210"/>&nbsp;
