@@ -21,7 +21,7 @@ Easily printable and assemblable single cylinder pneumatic engine. Works best wi
 
 **[Lego:](https://github.com/EightLimbed/CAD-Projects/tree/main/Pneumatic%20Engines/Lego)**
 
-Simple U2 engine made with lego pneumatic parts, is powered by an air compressor.
+Simple U2 engine made with lego pneumatic parts, powered by an air compressor.
 
 https://github.com/user-attachments/assets/0046198d-d610-4030-9372-fca328e9f1aa
 
